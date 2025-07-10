@@ -8,4 +8,7 @@ https://str.yodacdn.net/ictimaitv/video.m3u8
 https://str.yodacdn.net/bakutv/video.m3u8
 #EXTINF:-2 tvg-id="idman" tvg-name="idman" tvg-logo="https://yoda.az/logos/idman.svg" group-title="🇦🇿 Azerbaijan ™️",Idman TV
 https://str.yodacdn.net/idman/video.m3u8
-
+#EXTINF:-2 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://yoda.az/logos/ntv.png" group-title="🇦🇿 Azerbaijan ™️",Naxcivan TV
+https://str.yodacdn.net/ntv/video.m3u8
+#EXTINF:-2 tvg-id="atv" tvg-name="atv" tvg-logo="https://yoda.az/logos/atv.svg" group-title="🇦🇿 Azerbaijan ™️",ATV
+https://str.yodacdn.net/atv/video.m3u8
