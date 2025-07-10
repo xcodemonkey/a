@@ -1,7 +1,11 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="tv.niko"
-#EXTINF:-1 tvg-id="1" tvg-name="aztv" tvg-logo="https://yoda.az/logos/aztv.svg" group-title="🇦🇿 Azerbaijan ™️",AzTV
+#EXTINF:-1 tvg-id="aztv" tvg-name="aztv" tvg-logo="https://yoda.az/logos/aztv.svg" group-title="🇦🇿 Azerbaijan ™️",AzTV
 https://str.yodacdn.net/aztv/video.m3u8
-#EXTINF:-2 tvg-id="2" tvg-name="ictimai" tvg-logo="https://yoda.az/logos/itv.png" group-title="🇦🇿 Azerbaijan ™️",Ictimai TV
+#EXTINF:-2 tvg-id="ictimai" tvg-name="ictimai" tvg-logo="https://yoda.az/logos/itv.png" group-title="🇦🇿 Azerbaijan ™️",Ictimai TV
 https://str.yodacdn.net/ictimaitv/video.m3u8
+#EXTINF:-2 tvg-id="bakutv" tvg-name="bakutv" tvg-logo="https://yoda.az/logos/bakutv.webp" group-title="🇦🇿 Azerbaijan ™️",Baku TV
+https://str.yodacdn.net/bakutv/video.m3u8
+#EXTINF:-2 tvg-id="idman" tvg-name="idman" tvg-logo="https://yoda.az/logos/idman.svg" group-title="🇦🇿 Azerbaijan ™️",Idman TV
+https://str.yodacdn.net/idman/video.m3u8
 
