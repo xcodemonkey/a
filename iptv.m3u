@@ -1,56 +1,92 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="tv.niko"
+
 #EXTINF:-1 tvg-id="aztv" tvg-name="aztv" tvg-logo="https://yoda.az/logos/aztv.svg" group-title="🇦🇿 Azerbaijan ™️",AZTV
 https://str.yodacdn.net/aztv/video.m3u8
+
 #EXTINF:-2 tvg-id="ictimai" tvg-name="ictimai" tvg-logo="https://yoda.az/logos/itv.png" group-title="🇦🇿 Azerbaijan ™️",ICTIMAI TV
 https://goldvod.org/tv/az.php?id=ictimai
+
 #EXTINF:-2 tvg-id="atv" tvg-name="atv" tvg-logo="https://yoda.az/logos/atv.svg" group-title="🇦🇿 Azerbaijan ™️",ATV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
 #EXTINF:-2 tvg-id="xazar" tvg-name="xazar" tvg-logo="https://yoda.az/logos/xazar.png" group-title="🇦🇿 Azerbaijan ™️",XEZER TV
 https://goldvod.org/tv/az.php?id=xazer
+
 #EXTINF:-2 tvg-id="space" tvg-name="space" tvg-logo="https://yoda.az/logos/space.png" group-title="🇦🇿 Azerbaijan ™️",SPACE TV
 https://goldvod.org/tv/az.php?id=space
+
 #EXTINF:-2 tvg-id="medeniyyet" tvg-name="medeniyyet" tvg-logo="https://yoda.az/logos/medeniyyet.svg" group-title="🇦🇿 Azerbaijan ™️",MEDENIYYET TV
 https://goldvod.org/tv/az.php?id=medeniyet
+
 #EXTINF:-2 tvg-id="real" tvg-name="real" tvg-logo="https://yoda.az/logos/real.svg" group-title="🇦🇿 Azerbaijan ™️",REAL TV
 https://goldvod.org/tv/az.php?id=real
+
 #EXTINF:-2 tvg-id="arb" tvg-name="arb" tvg-logo="https://yoda.az/logos/arb.svg" group-title="🇦🇿 Azerbaijan ™️",ARB TV
 https://goldvod.org/tv/az.php?id=arbhd
+
 #EXTINF:-2 tvg-id="arb24" tvg-name="arb24" tvg-logo="https://yoda.az/logos/arb24.svg" group-title="🇦🇿 Azerbaijan ™️",ARB 24 TV
 https://goldvod.org/tv/az.php?id=arb24
+
 #EXTINF:-2 tvg-id="arbgunesh" tvg-name="arbgunesh" tvg-logo="https://yoda.az/logos/gunesh.svg" group-title="🇦🇿 Azerbaijan ™️",ARB GUNES TV
 https://goldvod.org/tv/az.php?id=arbgunes
+
 #EXTINF:-2 tvg-id="dunya" tvg-name="dunya" tvg-logo="https://bulud.store/tv/dunyatv_30fe554.jpeg" group-title="🇦🇿 Azerbaijan ™️",DUNYA TV
 https://goldvod.org/tv/az.php?id=dunya
+
 #EXTINF:-2 tvg-id="bakutv" tvg-name="bakutv" tvg-logo="https://yoda.az/logos/bakutv.webp" group-title="🇦🇿 Azerbaijan ™️",BAKU TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+
 #EXTINF:-2 tvg-id="cbc" tvg-name="cbc" tvg-logo="https://yoda.az/logos/cbc.svg" group-title="🇦🇿 Azerbaijan ™️",CBC TV
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+
 #EXTINF:-2 tvg-id="kanals" tvg-name="kanals" tvg-logo="https://yoda.az/logos/start.png" group-title="🇦🇿 Azerbaijan ™️",KANAL S TV
 https://goldvod.org/tv/az.php?id=kanals
+
 #EXTINF:-2 tvg-id="idman" tvg-name="idman" tvg-logo="https://yoda.az/logos/idman.svg" group-title="🇦🇿 Azerbaijan ™️",IDMAN TV
 https://str.yodacdn.net/idman/video.m3u8
+
 #EXTINF:-2 tvg-id="cbcsport" tvg-name="cbcsport" tvg-logo="https://bulud.store/tv/cbcsporthd_image_115_7a83374.jpg" group-title="🇦🇿 Azerbaijan ™️",CBC SPORT
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+
 #EXTINF:-2 tvg-id="ftv" tvg-name="ftv" tvg-logo="" group-title="🇦🇿 Azerbaijan ™️",APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
+
 #EXTINF:-2 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://yoda.az/logos/ntv.png" group-title="🇦🇿 Azerbaijan ™️",NAXCIVAN TV
 https://str.yodacdn.net/ntv/video.m3u8
+
 #EXTINF:-2 tvg-id="stv" tvg-name="stv" tvg-logo="https://yoda.az/logos/shtv.png" group-title="🇦🇿 Azerbaijan ™️",SEHIYYE TV
 https://goldvod.org/tv/az.php?id=shtv
+
 #EXTINF:-2 tvg-id="qafkaz" tvg-name="qafkaz" tvg-logo="https://yoda.az/logos/qafqaz.svg" group-title="🇦🇿 Azerbaijan ™️",QAFQAZ TV
-https://str.yodacdn.net/qafkaz/video.m3u8
+https://proxy.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=196927cf184c2da76f8d57eeb01cd462b431486b-7f63821727ab4fba4c44de9efcc3c62d-1749327541000000-1749316741000
+
 #EXTINF:-2 tvg-id="eltv" tvg-name="eltv" tvg-logo="" group-title="🇦🇿 Azerbaijan ™️",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
+
 #EXTINF:-2 tvg-id="show" tvg-name="show" tvg-logo="https://yoda.az/logos/showplus.png" group-title="🇦🇿 Azerbaijan ™️",SHOW PLUS
 https://rtmp.showplus.tv/hls/myshow.m3u8
+
 #EXTINF:-2 tvg-id="livetv" tvg-name="livetv" tvg-logo="http://tv.team/images/chIcons/1737.png" group-title="🇦🇿 Azerbaijan ™️",LIVE TV
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-2 tvg-id="konul" tvg-name="konul" tvg-logo="" group-title="🇦🇿 Azerbaijan ™️",KONUL TV
+
+#EXTINF:-2 tvg-id="konul" tvg-name="konul" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZmXJ09sfB-0jlIqcGZwFVcmqvpBTKKc6UxXO1M5rElA=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇿 Azerbaijan ™️",KONUL TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-2 tvg-id="alvin" tvg-name="alvin" tvg-logo="" group-title="🇦🇿 Azerbaijan ™️",ALVIN TV
+
+#EXTINF:-2 tvg-id="alvin" tvg-name="alvin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Alvin_Channel_TV_-_AZE.png" group-title="🇦🇿 Azerbaijan ™️",ALVIN TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+
 #EXTINF:-2 tvg-id="ftv" tvg-name="ftv" tvg-logo="https://tr.canlitv.watch/channels/fortuna-tv.png" group-title="🇦🇿 Azerbaijan ™️",FTV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:-2 tvg-id="popstar" tvg-name="popstar" tvg-logo="" group-title="🇦🇿 Azerbaijan ™️",POPSTAR TV
+
+#EXTINF:-2 tvg-id="tmbaz" tvg-name="tmbaz" tvg-logo="https://yoda.az/logos/tmb.png" group-title="🇦🇿 Azerbaijan ™️",TMB Azerbaycan TV
+https://goldvod.org/tv/az.php?id=tmbaz
+
+#EXTINF:-2 tvg-id="popstar" tvg-name="popstar" tvg-logo="https://scontent.fgyd20-1.fna.fbcdn.net/v/t39.30808-1/302078817_496130082519602_1398875498501252099_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=5au--2n93jcQ7kNvwHeQobo&_nc_oc=AdnAT9meoZ0Qs5RyvWILMtVUYHPEKtdpozIVuU_7HhH0p1ouV45JzohOLBoiq6f_Ie0&_nc_zt=24&_nc_ht=scontent.fgyd20-1.fna&_nc_gid=WmBvPcNYTJTlLZzAAziddw&oh=00_AfQNQn5mRHTw3SlSqKk_FG7AcCX6Zk_7ydfFk8Z25nl3Jg&oe=6876030F" group-title="🇦🇿 Azerbaijan ™️",POPSTAR TV
 http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+#EXTINF:-2 tvg-id="vip" tvg-name="vip" tvg-logo="https://yoda.az/logos/viphd.png" group-title="🇦🇿 Azerbaijan ™️",VIP HD
+https://goldvod.org/tv/az.php?id=vip
+
+#EXTINF:-2 tvg-id="tmbtv" tvg-name="tmbtv" tvg-logo="https://yoda.az/logos/tmb.png" group-title="🇹🇷 Turkey ™️",TMB TV
+https://goldvod.org/tv/az.php?id=tmbtv
