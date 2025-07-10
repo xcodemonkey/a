@@ -52,7 +52,7 @@ https://str.yodacdn.net/idman/video.m3u8
 #EXTINF:-2 tvg-id="cbcsport" tvg-name="cbcsport" tvg-logo="https://bulud.store/tv/cbcsporthd_image_115_7a83374.jpg" group-title="🇦🇿 Azerbaijan ™️",CBC SPORT
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 
-#EXTINF:-2 tvg-id="ftv" tvg-name="ftv" tvg-logo="" group-title="🇦🇿 Azerbaijan ™️",APA TV
+#EXTINF:-2 tvg-id="ftv" tvg-name="ftv" tvg-logo="https://yoda.az/logos/apatv.png" group-title="🇦🇿 Azerbaijan ™️",APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
 #EXTINF:-2 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://yoda.az/logos/ntv.png" group-title="🇦🇿 Azerbaijan ™️",NAXCIVAN TV
@@ -64,7 +64,7 @@ https://goldvod.org/tv/az.php?id=shtv
 #EXTINF:-2 tvg-id="qafkaz" tvg-name="qafkaz" tvg-logo="https://yoda.az/logos/qafqaz.svg" group-title="🇦🇿 Azerbaijan ™️",QAFQAZ TV
 https://proxy.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=196927cf184c2da76f8d57eeb01cd462b431486b-7f63821727ab4fba4c44de9efcc3c62d-1749327541000000-1749316741000
 
-#EXTINF:-2 tvg-id="eltv" tvg-name="eltv" tvg-logo="" group-title="🇦🇿 Azerbaijan ™️",EL TV
+#EXTINF:-2 tvg-id="eltv" tvg-name="eltv" tvg-logo="https://yoda.az/logos/eltv_logo.png" group-title="🇦🇿 Azerbaijan ™️",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 
 #EXTINF:-2 tvg-id="show" tvg-name="show" tvg-logo="https://yoda.az/logos/showplus.png" group-title="🇦🇿 Azerbaijan ™️",SHOW PLUS
