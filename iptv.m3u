@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="tv.niko"
 
-#EXTINF:-1 tvg-id="niktv" tvg-name="niktv" tvg-logo="https://avatars.githubusercontent.com/u/220241109?v=4" group-title="⚡ xcodemonkey ⚡",NIKO TV
+#EXTINF:-1 tvg-id="nikotv" tvg-name="nikotv" tvg-logo="https://avatars.githubusercontent.com/u/220241109?v=4" group-title="🇦🇿 Azerbaijan ™️",⚡ NIKO TV ⚡
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="aztv" tvg-name="aztv" tvg-logo="https://yoda.az/logos/aztv.svg" group-title="🇦🇿 Azerbaijan ™️",AZTV
