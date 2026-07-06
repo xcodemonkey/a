@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="tv.test"
+
+#EXTINF:-1 tvg-id="nikotv" tvg-name="nikotv" tvg-logo="" group-title="",v1
+https://xcodemonkey.github.io/a/test/v1.mp4
+
+#EXTINF:-1 tvg-id="nikotv" tvg-name="nikotv" tvg-logo="" group-title="",v2
+https://xcodemonkey.github.io/a/test/v2.mp4
+
+#EXTINF:-1 tvg-id="nikotv" tvg-name="nikotv" tvg-logo="" group-title="",v3
+https://xcodemonkey.github.io/a/test/v3.mp4
+
+
